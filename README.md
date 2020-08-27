@@ -3,4 +3,6 @@ Enemy bugs are trying to invade your code. **shoot** them down before they overw
 
 Coded with pygame in python.
 
+![game sample image](/game_sample.png)
+
 If you get past score 40 let me know!
